@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Mauricio Salinas </h1>
+<h1 align="center"> Hey, I'm Mauricio Salinas </h1>
 
 <p align="center">
   <b>Backend Developer · Python · FastAPI · Event-Driven Microservices · Clean Architecture</b>
