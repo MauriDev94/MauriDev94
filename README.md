@@ -24,12 +24,12 @@ I care about the **why** behind every decision, not just code that works.
   <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,sqlite,mongodb,rabbitmq,docker,githubactions,git,github,linux,bash&theme=light" alt="stack">
 </p>
 
-**Languages:** Python · SQL · TypeScript
-**Frameworks:** FastAPI · Django / DRF
-**Messaging & Events:** RabbitMQ (aio-pika) · idempotency · DLQ · retries
-**Data:** PostgreSQL · MongoDB · SQLAlchemy · Alembic
-**Testing:** pytest · TDD · testcontainers · coverage (branch)
-**DevOps & Obs:** Docker · GitHub Actions · structlog (JSON logging) · correlation IDs
+**Languages:** Python · SQL  
+**Frameworks:** FastAPI · Django / DRF  
+**Messaging & Events:** RabbitMQ (aio-pika) · idempotency · DLQ · retries  
+**Data:** PostgreSQL · MongoDB · SQLAlchemy · Alembic  
+**Testing:** pytest · TDD · testcontainers · coverage (branch)  
+**DevOps & Obs:** Docker · GitHub Actions · structlog (JSON logging) · correlation IDs  
 
 ### 🚀 Featured Projects
 
@@ -41,9 +41,11 @@ I care about the **why** behind every decision, not just code that works.
 
 ### 📊 GitHub Stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MauriDev94&show_icons=true&hide_border=true&title_color=2b6cb0&icon_color=2b6cb0&count_private=true" alt="stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauriDev94&layout=compact&hide_border=true&title_color=2b6cb0&langs_count=6" alt="top langs">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MauriDev94&hide_border=true&ring=2b6cb0&fire=2b6cb0&currStreakLabel=2b6cb0&sideLabels=2b6cb0&dates=666" alt="streak">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauriDev94&layout=compact&hide_border=true&title_color=2b6cb0&langs_count=6" alt="top langs">
 </p>
 
 ### 🤝 Connect
