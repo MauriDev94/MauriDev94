@@ -39,15 +39,6 @@ I care about the **why** behind every decision, not just code that works.
 | **[MedBook](https://github.com/MauriDev94/MedBook)** | Medical appointment booking API (Django + DRF) | State machine · RBAC · atomic transactions · TDD (274 tests, 98.7% branch) · CI vs real PostgreSQL |
 | **[Api_monolith](https://github.com/MauriDev94/Api_monolith)** | Modular monolith with Clean Architecture (FastAPI) | JWT/OAuth2/OTP/SSO · SQLAlchemy + Alembic · CI/CD · deployed on Render |
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MauriDev94&hide_border=true&ring=2b6cb0&fire=2b6cb0&currStreakLabel=2b6cb0&sideLabels=2b6cb0&dates=666" alt="streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauriDev94&layout=compact&hide_border=true&title_color=2b6cb0&langs_count=6" alt="top langs">
-</p>
-
 ### 🤝 Connect
 
 <a href="https://linkedin.com/in/mauricio-salinas-rubio">LinkedIn</a> · <a href="mailto:maundrex@gmail.com">maundrex@gmail.com</a>
