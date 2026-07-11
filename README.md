@@ -36,7 +36,7 @@ I care about the **why** behind every decision, not just code that works.
 | Project | What it is | Highlights |
 |---|---|---|
 | **[event-driven-orders](https://github.com/MauriDev94/event-driven-orders)** | E-commerce order system, 3 microservices over RabbitMQ | Idempotency · atomic stock reservation · DLQ + backoff · eventual consistency · correlation IDs · 138 tests |
-| **[MedBook](https://github.com/MauriDev94/MedBook)** | Medical appointment booking API (Django + DRF) | State machine · RBAC · atomic transactions · TDD (274 tests, 98.7% branch) · CI vs real PostgreSQL |
+| **[MedBook](https://github.com/MauriDev94/MedBook)** | Medical appointment booking API (Django + DRF) | State machine · RBAC · atomic transactions · TDD (274 tests, 90% branch) · CI vs real PostgreSQL |
 | **[Api_monolith](https://github.com/MauriDev94/Api_monolith)** | Modular monolith with Clean Architecture (FastAPI) | JWT/OAuth2/OTP/SSO · SQLAlchemy + Alembic · CI/CD · deployed on Render |
 
 ### 🤝 Connect
