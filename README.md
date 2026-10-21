@@ -8,7 +8,7 @@
   <a href="https://mauridev94.github.io"><img src="https://img.shields.io/badge/Portfolio-2b6cb0?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/mauricio-salinas-rubio"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:maundrex@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <img src="https://img.shields.io/badge/English-C2-2b6cb0?style=flat-square" alt="English C2">
+  <img src="https://img.shields.io/badge/English-Advanced-2b6cb0?style=flat-square" alt="Advanced English">
 </p>
 
 ---
